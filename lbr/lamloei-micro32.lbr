@@ -6,10 +6,10 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.5" altunitdist="mm" altunit="mm"/>
+<grid distance="0.5" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.5" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="yes"/>
 <layer number="4" name="Route4" color="1" fill="4" visible="no" active="yes"/>
 <layer number="5" name="Route5" color="4" fill="4" visible="no" active="yes"/>
@@ -123,17 +123,17 @@
 <rectangle x1="0.25" y1="4.375" x2="0.875" y2="4.625" layer="51"/>
 <rectangle x1="0.25" y1="3.375" x2="0.875" y2="3.625" layer="51"/>
 <rectangle x1="0.25" y1="2.375" x2="0.875" y2="2.625" layer="51"/>
-<rectangle x1="13.25" y1="12.375" x2="13.875" y2="12.625" layer="51"/>
-<rectangle x1="13.25" y1="11.375" x2="13.875" y2="11.625" layer="51"/>
-<rectangle x1="13.25" y1="10.375" x2="13.875" y2="10.625" layer="51"/>
-<rectangle x1="13.25" y1="9.375" x2="13.875" y2="9.625" layer="51"/>
-<rectangle x1="13.25" y1="8.375" x2="13.875" y2="8.625" layer="51"/>
-<rectangle x1="13.25" y1="7.375" x2="13.875" y2="7.625" layer="51"/>
-<rectangle x1="13.25" y1="6.375" x2="13.875" y2="6.625" layer="51"/>
-<rectangle x1="13.25" y1="5.375" x2="13.875" y2="5.625" layer="51"/>
-<rectangle x1="13.25" y1="4.375" x2="13.875" y2="4.625" layer="51"/>
-<rectangle x1="13.25" y1="3.375" x2="13.875" y2="3.625" layer="51"/>
-<rectangle x1="13.25" y1="2.375" x2="13.875" y2="2.625" layer="51"/>
+<rectangle x1="13.125" y1="12.375" x2="13.75" y2="12.625" layer="51"/>
+<rectangle x1="13.125" y1="11.375" x2="13.75" y2="11.625" layer="51"/>
+<rectangle x1="13.125" y1="10.375" x2="13.75" y2="10.625" layer="51"/>
+<rectangle x1="13.125" y1="9.375" x2="13.75" y2="9.625" layer="51"/>
+<rectangle x1="13.125" y1="8.375" x2="13.75" y2="8.625" layer="51"/>
+<rectangle x1="13.125" y1="7.375" x2="13.75" y2="7.625" layer="51"/>
+<rectangle x1="13.125" y1="6.375" x2="13.75" y2="6.625" layer="51"/>
+<rectangle x1="13.125" y1="5.375" x2="13.75" y2="5.625" layer="51"/>
+<rectangle x1="13.125" y1="4.375" x2="13.75" y2="4.625" layer="51"/>
+<rectangle x1="13.125" y1="3.375" x2="13.75" y2="3.625" layer="51"/>
+<rectangle x1="13.125" y1="2.375" x2="13.75" y2="2.625" layer="51"/>
 <rectangle x1="1.6875" y1="0.9375" x2="2.3125" y2="1.1875" layer="51" rot="R90"/>
 <rectangle x1="2.6875" y1="0.9375" x2="3.3125" y2="1.1875" layer="51" rot="R90"/>
 <rectangle x1="3.6875" y1="0.9375" x2="4.3125" y2="1.1875" layer="51" rot="R90"/>
